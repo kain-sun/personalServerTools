@@ -1,0 +1,1 @@
+scp 404.html root@117.50.190.87:/data/tools
